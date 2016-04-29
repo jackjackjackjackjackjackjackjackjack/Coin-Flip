@@ -25,5 +25,5 @@ public class CoinFlip {
 			System.out.println("It was heads " + heads + " times.");
 			System.out.println("It was tails " + tails + " times.");
 	}
-
+//bang bang
 }
